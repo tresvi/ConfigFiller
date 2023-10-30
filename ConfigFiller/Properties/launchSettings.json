@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigFiller": {
+      "commandName": "Project",
+      "commandLineArgs": " --path \"C:\\Temp\\prueba.config\"  --fail0Replace \"ConnectionString=Es una Connection sting\" \"LogDir= C:\\Temp\\Log\" \"EnableLog=True\""
+    }
+  }
+}
